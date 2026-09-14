@@ -11,7 +11,7 @@
     {   
       print("Du har ikke svart på begge sp&oslash;rsm&aring;lene ");
     }
-  else if ($student == "j" and $alder < 20)  
+  else if ($student == "j" and $alder < 19)  
     {   
       print("Du er student og er under 20 &aring;r ");
     }
